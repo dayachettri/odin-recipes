@@ -1,0 +1,42 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
+
+#homepage-second-header {
+  text-align: left;
+}
+
+#homepage-third-header,
+.ingredients,
+.steps {
+  color: red;
+}
+
+.second-header {
+  color: lightskyblue;
+  text-align: center;
+}
+
+.description,
+.ingredient-list,
+.step-list {
+  font-weight: bold;
+}
+
+.description {
+  font-size: 18px;
+}
+
+.link-parent {
+  text-align: center;
+}
+
+.link-parent a {
+  background-color: darkblue;
+  color: white;
+}
